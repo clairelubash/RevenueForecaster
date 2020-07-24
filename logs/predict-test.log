@@ -1,0 +1,7 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+f7a6119f-4ad1-4764-b62d-ca3f167582e3,1595211383.907016,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
+db61e31a-b6d3-4f98-ba20-1d180e3ea842,1595295981.725423,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
+73cbdd68-6ec3-4b88-b115-09d6724e31b3,1595346268.063821,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
+546ab45e-d679-433e-83fa-767c80bcf14d,1595346640.6914828,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
+c6436e98-b4fa-434e-9685-5c3846010c93,1595377805.4354491,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
+43fe774c-d159-40fa-8afc-fb433f299360,1595531497.5495942,[0],"[0.6, 0.4]","[""united_states"", 24, ""aavail_basic"", 8]",0.1,00:00:01
