@@ -1,6 +1,6 @@
 # IBM AI Enterprise Workflow Capstone
 
-The project description can be found [here](https://github.com/aavail/ai-workflow-capstone).
+A tool to predict revenue given a specific timeframe and market. The project description can be found [here](https://github.com/aavail/ai-workflow-capstone).
 
 ## Part 1: Data Investigation
 
