@@ -56,6 +56,8 @@ The code for the individual unit tests are in the *unit_tests* sub-directory.
 
 ### Docker Container
 
+Build the image and then run the container.
+
 ``` $ docker build -t capstone-ai-app . ```
 
 ``` $ docker run -p 4000:8080 capstone-ai-app ```
